@@ -1,0 +1,34 @@
+<HTML>
+<style>
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: 
+}
+
+
+</style>
+<Head>
+
+</Head>
+
+<body>
+
+ <img src="uhttps://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.pngrl" alt="google_logo"> 
+
+ <span class="material-icons-outlined">
+search</span> 
+
+<p style="padding: 10px; border: 2px solid red;">TEXT</p>
+<p style="padding: 10px; border: 2px solid red;">TEXT</p>
+
+</body>
+
+<footer>
+
+<p>Carbon neutral since 2007</p>
+
+</footer>
+
+</HTML>
